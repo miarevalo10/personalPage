@@ -1,0 +1,24 @@
+*{
+font-family: 'Lato', sans-serif;
+}
+#abt{padding-top:50px;height:600px;}
+#pry {padding-top:50px;height:600px; }
+#skills {padding-top:50px;height:600px;}
+#int{padding-top:50px;height:600px;}
+.skillsImg{
+  height:110px;
+   width:110px;
+}
+h2, p, h4{
+  text-align:center;
+}
+h1,h2,h3,h4{
+  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+
+.imgPry{
+  height:360px;
+  width:260px;
+}
