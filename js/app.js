@@ -26,8 +26,6 @@ $(document).ready(function(){
     }  // End if
   });
 
-      /* ----------  equal height columns   -------- */
-      $('.container-fluid').matchHeight();
 
 
 });
