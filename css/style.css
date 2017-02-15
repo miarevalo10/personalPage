@@ -4,7 +4,7 @@ font-family: 'Lato', sans-serif;
 #abt{padding-top:50px;height:600px;}
 #pry {padding-top:50px;height:600px; }
 #skills {padding-top:50px;height:600px;}
-#int{padding-top:50px;height:600px;}
+#cont{padding-top:50px;height:600px;}
 
 .skillsImg{
   height:110px;
@@ -13,8 +13,8 @@ font-family: 'Lato', sans-serif;
 p{
   font-size: 16px;
 }
-#aboutme{
-  padding-top:30px
+#aboutme, #int {
+  padding-top:40px
 }
 #habt{
   padding-top:30px
@@ -79,6 +79,6 @@ h1,h2{
   height:90px;
   width:90px;
 }
-.toolsR{
-  padding-top: 20px;
+.edu{
+  padding-top: 40px;
 }
