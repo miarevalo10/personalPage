@@ -75,3 +75,10 @@ h1,h2{
     margin-right: 5px;
     text-align:center;
 }
+.toolsImg{
+  height:90px;
+  width:90px;
+}
+.toolsR{
+  padding-top: 20px;
+}
