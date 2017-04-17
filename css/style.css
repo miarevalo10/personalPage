@@ -83,14 +83,3 @@ h1,h2{
 .edu{
   padding-top: 40px;
 }
-.contImg{
-  height:100px;
-  width:100px;
-  float:left;
-}
-.contL{
-    padding-top:5%;
-  margin-left:  41%;
-  display: inline-block;
-  margin: 0 auto;
-}
