@@ -1,10 +1,9 @@
 *{
 font-family: 'Lato', sans-serif;
 }
-#abt{padding-top:50px;height:600px;}
-#pry {padding-top:50px;height:600px; }
-#skills {padding-top:50px;height:600px;}
-#cont{padding-top:50px;height:600px;}
+
+#abt, #pry, #skills, #cont {padding-top:50px;
+/*height:600px;*/  }
 
 .skillsImg{
   height:110px;
